@@ -1,12 +1,12 @@
 {
-  "name": "Example Project",
-  "team": "Example Team",
-  "description_uk": "Коротко опишіть, що робить ваш проєкт і як він використовує українські LLM через Lapathoniia.",
-  "description_en": "Briefly describe what your project does and how it uses Ukrainian LLMs through Lapathoniia.",
-  "website": "https://example.com",
-  "demo": "https://example.com/demo",
-  "github": "https://github.com/your-org/your-repo",
+  "name": "Lapathoniia Demo Assistant",
+  "team": "Lapathoniia Test Team",
+  "description_uk": "Тестовий проєкт для перевірки відображення карток екосистеми Lapathoniia. Імітує AI-асистента, який використовує українські LLM у робочому застосунку.",
+  "description_en": "A test project for validating Lapathoniia ecosystem project card rendering. It represents an AI assistant using Ukrainian LLMs inside a product workflow.",
+  "website": "https://lapathoniia.top",
+  "demo": "https://chat.lapathoniia.top",
+  "github": "https://github.com/Lapathoniia/ecosystem-test-project",
   "logo": "assets/logo.svg",
   "cover": "assets/cover.svg",
-  "contact_email": "team@example.com"
+  "contact_email": "info@lapathoniia.top"
 }
